@@ -1,0 +1,582 @@
+---
+sign_in: تسجيل الدخول
+sign_up: سجل
+agent_panel: لوحة الوكيل
+admin_panel: لوحة المشرف
+DBC_ADVANCED_SEARCH: البحث المتقدم
+DBC_HOME: منزل
+DBC_ABOUT: حول
+DBC_CONTACT: اتصال
+country: بلد
+state_province: الدولة / مقاطعة
+city: مدينة
+register: تسجيل
+details: تفاصيل
+view_all: عرض جميع
+order_by: الترتيب حسب
+none: لا شيء
+terms_and_conditions: الشروط و Confition
+reg_success_message: تسجيل حسابك ناجحا . 
+limit: حد
+usage: استعمال
+recover: استعادة
+oops: عفوا، لم يتم العثور على الصفحة
+share_this: شارك هذا
+location_map: خريطة الموقع
+image_gallery: معرض الصور
+gallery: رواق
+summary: ملخص
+overview: نظرة عامة
+address: عنوان
+message: رسالة
+email_subject: موضوع الرسالة
+all: جميع
+DBC_DELETED: حذف
+contact_us: اتصل بنا
+DBC_ACTIVE: نشط
+featured_video: فيديو متميز
+estates: عقارات
+embed_video_url: مطعم ب فيديو رابط
+DBC_PENDING: ريثما
+email_tracker: البريد الإلكتروني المقتفي
+bulk_email: معظم البريد الإلكتروني
+advanced_filters: مرشحات متقدمة
+result: نتيجة
+payment_notification: أنت ذاهب لجعل الدفع. 
+confirmation: التأكيد
+tags: الكلمات
+zip_code: الرمز البريدي
+embed_preview: تضمين معاينة
+login: تسجيل الدخول
+post_not_found: الرد لم يتم العثور على
+view_more: عرض المزيد
+choose_a_package: اختيار حزمة
+choose_feature_package: اختيار مجموعة ميزة
+no_package_found: لم يتم العثور على حزمة
+days: أيام
+posts: المشاركات
+change: تغيير
+subscribe: الاشتراك
+image: صورة
+view_on_map: عرض على الخريطة
+create: خلق
+basic_info: معلومات أساسية
+send: إرسال
+all_email_to_users: جميع رسائل البريد الإلكتروني للمستخدمين
+email_detail: البريد الإلكتروني التفاصيل
+change_package: تغيير حزمة
+bank_transfer: تحويل مصرفي
+contact_subject: الاتصال البريد الإلكتروني
+payment_finish_title: الدفع الكامل
+payment_renew_title: الدفع الكامل
+payment_finish_text: الدفع الخاص بك هو الكامل . 
+payment_renew_text: الدفع الخاص بك هو الكامل . 
+payment_cancel_title: الدفع إلغاء
+payment_cancel_text: يتم إلغاء الدفع الخاص بك
+feature_payment_finish: الدفع الخاص بك هو الكامل . 
+feature_payment_cancel: تم إلغاء دفعتك.
+private_owner: المالك الخاص
+selected_package: اختيار حزمة
+signup_with_social_account: الاشتراك مع حساب الاجتماعي
+password: كلمة المرور
+confirm_password: تأكيد كلمة المرور
+all_posts: جميع المشاركات
+no_posts: لا يوجد ردود
+title: لقب
+description: وصف
+status: وضع
+actions: تطبيقات
+action: عمل
+type: نوع
+type_something: اكتب شيئا
+content: مضمون
+featured_image: صورة مميزة
+category: فئة
+all_categories: جميع الفئات
+edit_category: تحرير فئة
+new_category: فئة جديدة
+parent: أصل
+edit: تحرير
+delete: حذف
+name: اسم
+save: حفظ
+no_parent: لا الأم
+edit_email_template: تحرير قالب البريد الإلكتروني
+select_template_file: حدد ملف القالب
+subject: موضوع
+body: هيئة
+available_variables: المتغيرات المتاحة
+select_language: اختر اللغة
+select_language_file: اختر ملف اللغة
+edit_as_new: تحرير على أنها جديدة
+language: لغة
+add_another: إضافة آخر
+export_to_file: تصدير إلى ملف
+import_from_file: استيراد من ملف
+auto_translator: الترجمة السيارات
+from_lang: من لانج
+target_lang_full_name: الهدف انج الاسم الكامل
+target_lang_short_name: الهدف انج اسم قصير
+create_new_package: خلق حزمة جديدة
+price: السعر
+maximum_post_by_user: المشاركات القصوى من قبل المستخدم
+expirtion_time: الوقت Expirtion (أيام)
+create_package: خلق حزمة
+edit_package: تحرير حزمة
+update_package: تحديث حزمة
+add_packages: إضافة حزم
+all_packages: كل الحزم
+no_packages: لا حزم
+options: خيارات
+all_pages: كل الصفحات
+no_pages: لا توجد صفحات
+manage_menu: إدارة القائمة
+menu_title: القائمة عنوان
+menu_alias: الاسم المستعار القائمة
+show_in_menu: تظهر في القائمة
+page_layout: تخطيط الصفحة
+content_from: المحتوى من
+url: رابط
+seo_options: خيارات SEO
+meta_description: وصف ميتا
+key_words: الكلمات الرئيسية
+crawl_after: الزحف بعد (أيام)
+all_plugins: كل الإضافات
+no_plugins: لا الإضافات
+name_and_version: اسم وإصدار
+change_password: تغيير كلمة المرور
+current_password: كلمة المرور الحالية
+new_password: كلمة المرور الجديدة
+retype_password: أعد كتابة كلمة السر
+password_reset_info_msg: يرجى أولا تعيين الخاص بك كلمة السر الجديدة
+edit_profile: تعديل الملف الشخصي
+profile_picture: الصورة الشخصية
+username: اسم المستخدم
+email: البريد الإلكتروني
+first_name: الاسم الأول
+last_name: اسم العائلة
+gender: جنس
+phone: هاتف
+company_name: اسم الشركة
+about_me: عني
+facebook_account: حساب الفيسبوك
+twitter_account: حساب تويتر
+linkedin_account: حساب ينكدين
+gp_account: حساب + Google
+account_msg: 'من فضلك ادخل على الرابط ، من دون HTTP : //'
+web_email_settings: إعدادات ويب البريد الإلكتروني
+contact_email: الاتصال البريد الإلكتروني
+webadmin_name: اسم Webadmin
+webadmin_email: Webadmin البريد الإلكتروني
+update: تحديث
+upload: تحميل
+site_settings: إعدادات الموقع
+site_title: عنوان الموقع
+footer_text: تذييل النص
+site_logo: شعار الموقع
+site_language: اختر لغة الموقع
+site_text_direction: الموقع اتجاه النص
+per_page: ترقيم الصفحات لكل الصفحة
+default_page_layout: افتراضي تخطيط الصفحة
+tracking_code: شفرة تتبع
+smtp_email_settings: إعدادات البريد الإلكتروني SMTP
+smtp_email: SMTP البريد الإلكتروني
+smtp_host: SMTP المضيف
+smtp_port: ميناء SMTP
+smtp_timeout: مهلة SMTP
+smtp_user: SMTP العضو
+smtp_password: SMTP كلمة المرور
+generate_site_map: توليد خريطة الموقع
+sitemap_info_msg: 
+pages: صفحات
+blog_posts: بلوق المشاركات
+articles: مقالات
+blog_post: بلوق وظيفة
+blog: بلوق وظيفة
+article: مقالة
+news: أخبار
+view_xml: عرض XML
+create_xml: خلق XML
+manage_backups: إدارة النسخ الاحتياطية
+create_sql_backup: خلق SQL النسخ الاحتياطي
+create_image_backup: خلق صورة النسخ الاحتياطي
+restore: استعادة
+download: تحميل
+dashboard: لوحة القيادة
+overview_stats_more: نظرة عامة، و الإحصائيات و أكثر
+visit_site: زيارة الموقع
+logout: تسجيل الخروج
+themes: الموضوعات
+locations: المواقع
+paypal_settings: إعدادات باي بال
+payment_history: تاريخ الدفع
+profile: الملف الشخصي
+packages: حزم
+widgets: الحاجيات
+all_widgets: جميع الحاجيات
+widget_positions: المراكز القطعة
+blog_news_article: بلوق / أخبار / المادة
+new_post: وظيفة جديدة
+pages_and_menu: صفحات و القائمة
+new_page: الصفحة الجديدة
+menu: قائمة الطعام
+system: نظام
+manage_languages: إدارة اللغات
+auto_translate: السيارات ترجمة
+edit_email_text: تحرير رسالة نصية
+admin_settings: إعدادات المشرف على شبكة الإنترنت
+sitemap: خريطة الموقع
+activate: نشط
+active_theme: موضوع نشط
+available_themes: ثيمات المتاحة
+all_users: جميع الاعضاء
+create_user: خلق العضو
+export_user_email: رسائل البريد الإلكتروني التصدير العضو (CSV )
+profile_info: معلومات الملف الشخصي
+ban_forever: حظر للأبد
+edit_page: تحرير الصفحة
+create_widget: خلق القطعة
+widget_name: اسم القطعة
+activate_deactivate: تفعيل / دي تنشيط
+show: عرض
+available_widgets: المتاحة الحاجيات
+active_widgets: الحاجيات النشطة
+delete_warning: هل تريد بالتأكيد حذف لا .
+yes: نعم
+no: لا
+product_name: دليل الأعمال
+fa_icon: الاتحاد الإنجليزي الدرجة أيقونة
+post_ad: قائمة الأعمال
+post_ad_subtitle: وضع التفاصيل عملك
+signin: تسجيل الدخول
+signup: سجل
+signup_title: إنشاء حسابك
+not_found: لم يتم العثور على
+purpose: هدف
+purpose_buy: شراء
+purpose_sell: بيع
+select_category: اختر الفئة
+contact_for_price: الاتصال للحصول على السعر
+address_info: معالجة معلومات
+general_info: معلومات عامة
+upload_later_msg: عليك أن تكون قادرا على تحميل الصور معرض و رابط الفيديو بعد خلق آخر
+user_panel: لوحة المستخدم
+put_as_comma_seperated: كما وضع (،) فاصلة sperated
+added: وأضاف
+location: موقع
+views: المشاهدات
+package_type: نوع
+post_package: آخر حزمة
+featured_package: حزمة مميزة
+both_package: آخر و اردة
+select_package: حدد حزمة
+package_created: حزمة تم إنشاؤه
+package_updated: الحزمة المحدثة
+slider: المتزلج
+add_new: إضافة جديدة
+new_slide: شريحة جديدة
+update_slide: تحديث الشريحة
+save_order: حفظ ترتيب
+slider_sort_instruction: يمكنك سحب قطرة لفرز صفوف الجدول . 
+search: بحث
+results: النتائج
+property_location_on_map: خاصية الموقع على الخريطة
+location_on_map: الموقع على الخريطة
+contact_mode: وضع الاتصال
+reset: إعادة تعيين
+contact: اتصال
+default_site_view: رأي الموقع الافتراضي
+type_your_message: اكتب رسالتك هنا ..
+mail_sent: البريد المرسل
+search_classifieds: BusinessDirectorys البحث
+advanced_search: البحث المتقدم
+narrow_down_your_businesses: تضييق الشركات الخاصة بك
+home: منزل
+print: طباعة
+remember_me: تذكرنى
+forgot_password: هل نسيت كلمة المرور
+login_failed: فشل تسجيل الدخول
+login_to_your_account: تسجيل الدخول إلى حسابك
+register_your_account: تسجيل حسابك
+male: ذكر
+female: أنثى
+no_location_found: الموقع غير موجود
+state: دولة
+ad_creation_error: خطأ في إنشاء الإعلانات ! 
+users: المستخدمين
+show_admin_user: مشاهدة الادارية العضو
+send_email_to_business: ارسل بريد الكتروني الى الأعمال
+DBC_PAYMENT_PENDING: الدفعة معلقة
+DBC_EXPIRED: انتهى
+categories: الفئات
+top_posts: أفضل المشاركات
+show_state_province: مشاهدة مقاطعة الدولة
+package_settings: إعدادات حزمة
+default_site_settings: إعدادات الموقع الافتراضي
+webadmin_settings: إعدادات Webadmin
+banner_settings: إعدادات راية
+max_price_for_search: ماكس سعر بحث
+search_filters: البحث شروط البحث
+posts_per_page: معدل المشاركات لكل الصفحة
+recent_posts: المشاركات الأخيرة
+featured_posts: المشاركات مميزة
+top_locations: أعلى المواقع
+top_users: أعلى الصفحة عدد
+approve: وافق
+make_featured: جعل المميز
+remove_featured: إزالة المميز
+renew_featured: تجديد المميز
+renew_package: تجديد حزمة
+no_renew_post_id: غير صالح تجديد آخر معرف
+approve_payment: الموافقة على دفع
+transaction: صفقة
+transaction_id: عملية معرف
+post_id: آخر معرف
+amount: كمية
+request_date: تاريخ الطلب
+expiration_date: تاريخ انتهاء الصلاحية
+transaction_deleted: عملية حذف
+payment_approved: الدفع الموافقة
+logged_in_as: تسجيل الدخول ك
+posted_on: نشر على
+confirm_email_send: تأكيد البريد الإلكتروني send.Please اتبع الإرشادات من أن البريد الإلكتروني .
+email_confirmed: البريد الإلكتروني confirmed.You يمكن الدخول الآن مع البريد الإلكتروني وكلمة المرور
+email_confirmed_failed: لا يتطابق تأكيد البريد الإلكتروني failed.Confirmation ورمز .
+password_change_success: تغيير كلمة المرور بنجاح
+email_sent_inbox: و البريد الالكتروني هو نرسل للكم inbox.Check أن البريد الإلكتروني .
+password_recovery_link_invalid: استعادة كلمة السر رابط غير صالح
+user_updated: المستخدم تحديث
+user_deleted: العضو المحذوفة
+user_banned: العضو المحظورة
+user_unbanned: العضو غير ممنوع
+user_confirmed: العضو المؤكدة
+post_deleted: مشاركة محذوفة
+post_updated: آخر مكون
+post_created: آخر مكون
+post_featured: آخر المميز
+data_inserted: البيانات إدراج
+data_updated: بيانات محدثة
+feature_renewed: ميزة تحديث
+post_feature_removed: آخر ميزة إزالتها
+post_approved: آخر المعتمدة
+invalid_post: المشاركة غير صالح
+email_sent: البريد الإلكتروني المرسلة
+settings_updated: الإعدادات المحدثة
+package_removed: حزمة إزالتها
+page_updated: صفحة محدثة
+page_created: تم إنشاء الصفحة
+page_deleted: الصفحة محذوفة
+menu_updated: القائمة المحدثة
+site_map_generation_success: خريطة الموقع ولدت بنجاح.
+select_option: يرجى تحديد يوم أو أكثر خيارات محددة.
+image_backup_created: صورة النسخ الاحتياطي مكون
+language_translated: اللغة المترجم
+unavle_to_write_file: غير قادر على كتابة ملف
+backup_deleted: احتياطية محذوفة
+database_restored: قاعدة البيانات المستعادة
+theme_activated: موضوع المنشط
+user_created: العضو مكون
+widget_position_updated: القطعة المركز تحديث
+widget_created: القطعة مكون
+widget_data_updated: بيانات القطعة محدثة
+unable_to_write_widget: غير قادر على الكتابة القطعة
+post_created_and_published: آخر إنشاؤها و نشرها
+post_created_approval: آخر خلق وانتظار موافقة المشرف
+post_package_renewed: آخر حزمة جددت
+payment_finish: الانتهاء من الدفع
+payment_cancelled: الدفع إلغاء
+admin_change_pass_help: اتركه فارغا اذا لم يكن التغيير المطلوب
+go_to_paypal: الذهاب إلى باي بال
+login_with_google: تسجيل الدخول مع جوجل
+login_with_facebook: تسجيل الدخول مع الفيسبوك
+load_more_recent_posts: تحميل أكثر المشاركات الأخيرة
+load_more_featured_posts: تحميل المشاركات المعروضة
+register_for_new_account: سجل للحصول على حساب جديد
+site_map: خريطة الموقع
+show_site_map: خريطة موقع المعرض
+service: خدمة
+features: الميزات
+about: حول
+view_posts: مشاهدة المشاركات
+see_full_documentation: راجع وثائق كاملة
+select_city: اختر مدينة
+parallax_slider: المنظر المتزلج
+all_slides: كافة الشرائح
+no_slide: لا الشريحة
+slide_order: ترتيب الشرائح
+post_price_settings: ضبط سعر آخر
+enable_post_pricing: تمكين التسعير بعد
+enable_paypal_transfer: تمكين باي بال
+enable_bank_transfer: تمكين التحويل المصرفي
+bank_transfer_instruction_for_posts: البنك تعليمات نقل
+featured_price_settings: ضبط السعر بعد الخصم
+enable_featured_pricing: تمكين التسعير المميز
+enable_featured_paypal: تمكين باي بال
+enable_featured_bank_transfer: تمكين التحويل المصرفي
+bank_transfer_instruction_for_featured_posts: تعليمات التحويل المصرفي
+bank_currency_settings: ضبط عملة البنك
+bank_currency: العملة الضفة
+use_same_as_paypal_currency: استخدام نفس العملة باي بال
+admin: المشرف
+re_password: أعد كتابة كلمة السر
+explain_widget_position: شرح المواقف القطعة
+post: بعد
+post_renew: آخر تجديد
+feature: ميزة
+feature_renew: ميزة تجديد
+payment_for: دفع ل
+select_country: اختر الدولة
+select_one: اختر واحدة
+video_url: URL vidoe شارك نفس
+confirm_payment: تأكيد الدفع
+package_title: حزمة عنوان
+number_of_featured_days: عدد الأيام ل تكون واردة
+no_of_days: عدد أيام
+expiration_time: انتهاء الوقت
+any_city: أي مدينة
+any_category: أي فئة
+product_admin_panel: الازيز الادارية
+username_or_email: اسم المستخدم أو البريد الالكتروني
+business_detail: التفاصيل التجارية
+post_detail_subtitle: 
+posts_by: مشاركات
+featured: مميزة
+edit_user: تحرير المستعمل
+the_field_is_required: مطلوب حقل الصورة ٪ .
+valid_email: يجب أن يحتوي الحقل على الصورة ٪ عنوان بريد إلكتروني صالح .
+min_length: يجب أن يكون حقل ق ٪ الشخصيات ٪ على الأقل الصورة في الطول.
+numeric: يجب أن يحتوي الحقل على الصورة ٪ أرقام فقط .
+matches: لا مجال ليالي ٪ لا تتطابق حقل ٪ الصورة .
+greater_than: يجب أن يحتوي الحقل على الصورة ٪ عدد أكبر من ٪ الصورة .
+agree_terms: لقد قرأت ٪ ق شروط و ٪ الصورة
+must_accept_terms: يجب عليك قبول الشروط والأحكام
+dont_have_permission: ليس لديك صلاحية لدخول ل هذه الصفحة
+email_allready_in_use: البريد الإلكتروني قيد الاستخدام
+username_allready_in_use: إسم المستخدم allready قد تكون قيد الاستعمال
+current_password_not_matched: كلمة المرور الحالية ديدن ر مباراة \ '
+email_not_matched: البريد الإلكتروني غير متطابق
+account_not_confirmed: حساب غير مؤكدة
+all_locations: جميع المواقع
+add_country: إضافة بلد
+add_state: إضافة الدولة
+add_city: إضافة مدينة
+no_locations: لم مواقع
+banner_type: نوع راية
+bg_image: صورة الخلفية
+unique_alias: يحتاج حقل الصورة ٪ ل تكون فريدة من نوعها
+error_occured: حدث خطأ. 
+user_profile: نبذة عن المستخدمين
+user_email: البريد الإلكتروني للمستخدم
+target_lang_name: اللغة الهدف
+no_emails: لا رسائل البريد الإلكتروني
+to: إلى
+classified_settings: إعدادات السرية
+publish_posts_directly: نشر المشاركات مباشرة
+system_currency: العملة النظام
+enable_signup: تمكين الاشتراك
+if_package_expired: إذا انتهت حزمة
+do_not_hide: لا يخفون
+hide: إخفاء
+show_price_like: شكل السعر
+facebook_app_settings: الفيسبوك إعدادات التطبيق
+enable_facebook_login: تمكين الفيسبوك تسجيل الدخول
+fb_app_id: الفيسبوك التطبيق معرف
+fb_secret_key: الفيسبوك المفتاح السري
+comment_settings: إعدادات تعليق
+enable_comment: تمكين تعليق
+disqus_shortname: هارد Shortname
+sandbox_mode: وضع الحماية
+item_name: اسم العنصر
+paypal_email: باي بال البريد الإلكتروني
+currency: عملة
+finish_url: الانتهاء من رابط
+cancel_url: إلغاء رابط
+menu_background: خلفية القائمة
+menu_text_color: لون النص القائمة
+activated_menu_color: تنشيط اللون القائمة
+top_bar_bg: أعلى شريط BG
+activated_menu_text_color: تنشيط القائمة لون النص
+latitude: خط العرض
+longitude: خط الطول
+map_zoom: خريطة التكبير
+search_panel_settings: إعدادات لوحة البحث
+search_panel_bg_color: بحث وحة BG اللون
+show_background_image: مشاهدة صورة الخلفية
+active_widget_position: موقف القطعة نشط
+upload_and_install: تحميل و تثبيت
+install_updates: تثبيت التحديثات / ثيمات / الإضافات / الحاجيات
+confirmation_email: البريد الإلكتروني تأكيد
+recovery_email: الانتعاش البريد الإلكتروني
+signup_notification_email: تسجيل إشعار البريد الإلكتروني
+payment_confirmation_email: دفع تأكيد البريد الإلكتروني
+click_and_edit: حدد ملف القالب ثم انقر فوق تحرير
+google_analytics_settings: AnalyticsSettings جوجل
+default_seo_settings: الإعدادات الافتراضية SEO
+individual: فرد
+find_us_on_facebook: تجدنا في الفيسبوك
+category_featured_posts: مشاركات مميزة
+load_more_posts: تحميل أكثر
+home_page_title: أعلى الإعلانات بحث و آخر فئة
+no_posts_found: لا توجد مشاركات
+type_anything: اكتب أي شيء
+chosen_not_found: عفوا ، لا شيء موجود!
+rating_asc: تصنيف تصاعدي
+rating_desc: تصنيف تنازلي
+id_desc: معرف تنازليا
+id_asc: معرف تصاعدي
+show_daily_menu: تظهر القائمة اليومية
+website: الموقع
+founded: مؤسس
+year: عام
+price_range: نطاق الأسعار
+additional_features: ميزات إضافية
+add_more_fields: إضافة المزيد من الحقول
+remove: نزع
+distance_around_my_position: المسافة حول موقفي
+show_distance_in: مشاهدة عن بعد في
+business_listed: الأعمال المدرج
+show_street_view: مشاهدة عرض الشوارع
+list_business: قائمة الأعمال
+search_businesses: الشركات البحث
+top_businesses: أعلى الشركات
+featured_businesses: الشركات مميزة
+business_directory_settings: إعدادات دليل الأعمال
+hide_email: إخفاء البريد الإلكتروني
+hide_phone: إخفاء الهاتف
+review: مراجعة
+comment: تعليق
+submit_review: إرسال مراجعة
+rating: تصنيف
+review_alert: يجب أن تكون مسجلا ل تقديم الاستعراض.
+new_business: الشركة الجديد
+identify_my_location: تحديد موقعي
+data_deleted: حذف البيانات
+recent_reviews: الاستعراضات التي جرت مؤخرا
+view_all_reviews: عرض جميع التقييمات
+review_deleted: مراجعة محذوفة
+review_detail: التفاصيل
+all_reviews: كل التعليقات
+monday: الإثنين
+tuesday: الثلاثاء
+wednesday: الأربعاء
+thursday: الخميس
+friday: الجمعة
+saturday: السبت
+sunday: الأحد
+opening_hour: ساعة فتح
+closed: مغلق
+airport: مطار
+cafe: مقهى
+cinemas: دور السينما
+hotels_and_resorts: فنادق ومنتجعات
+libraries: المكتبات
+night_clubs: نوادي ليلية
+offices: مكاتب
+restaurants: المطاعم
+shops: محلات
+review_submitted: مراجعة المقدمة
+social_links: الروابط الاجتماعية
+upgrade_browser: متصفح ترقية
+please_upgrade_your_browser: الرجاء تحديث المتصفح
+business: عمل
+introduction: مقدمة

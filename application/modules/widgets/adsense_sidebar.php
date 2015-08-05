@@ -1,0 +1,1 @@
+<span><img class="img-responsive" alt="Ad1" src="http://assets.traffictrakker.com/images/dui-ads/dui-banner-300x250.jpg"></span>

@@ -1,0 +1,582 @@
+---
+sign_in: Войти В Систему
+sign_up: Зарегистрироваться
+agent_panel: Панель Agent
+admin_panel: админ-панели
+DBC_ADVANCED_SEARCH: Расширенный поиск
+DBC_HOME: домой
+DBC_ABOUT: о
+DBC_CONTACT: контакт
+country: страна
+state_province: Штат / провинция
+city: город
+register: Регистрация
+details: подробности
+view_all: Просмотреть все
+order_by: Сортировать по
+none: Ни один
+terms_and_conditions: Условия и Confition
+reg_success_message: Ваш аккаунт Регистрация успешна . 
+limit: предел
+usage: использование
+recover: восстанавливать
+oops: К сожалению , страница не найдена
+share_this: Поделиться этой
+location_map: Схема проезда
+image_gallery: Фотогалерея
+gallery: галерея
+summary: резюме
+overview: обзор
+address: адрес
+message: сообщение
+email_subject: Тема электронного письма
+all: все
+DBC_DELETED: удаленный
+contact_us: Связаться С Нами
+DBC_ACTIVE: активный
+featured_video: Лучшее видео
+estates: Estates
+embed_video_url: Embeded Ссылка на видео
+DBC_PENDING: до
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Дополнительные фильтры
+result: результат
+payment_notification: Вы собираетесь совершить платеж . 
+confirmation: подтверждение
+tags: Ключевые слова
+zip_code: Почтовый Индекс
+embed_preview: Код Предпросмотр
+login: Войти
+post_not_found: Сообщение не найдено
+view_more: Просмотреть больше
+choose_a_package: Выберите пакет
+choose_feature_package: Выберите функцию пакета
+no_package_found: Не пакет не найден
+days: дней
+posts: Сообщений
+change: изменение
+subscribe: подписываться
+image: изображение
+view_on_map: Посмотреть на карте
+create: создать
+basic_info: Базовая информация
+send: послать
+all_email_to_users: Все электронные письма пользователей
+email_detail: Email Деталь
+change_package: Изменить пакет
+bank_transfer: Банковский перевод
+contact_subject: Контактный адрес электронной почты
+payment_finish_title: Оплата Полная
+payment_renew_title: Оплата Полная
+payment_finish_text: Ваш платеж будет завершена. 
+payment_renew_text: Ваш платеж будет завершена. 
+payment_cancel_title: Оплата Отменить
+payment_cancel_text: Ваш платеж будет отменен
+feature_payment_finish: Ваш платеж будет завершена. 
+feature_payment_cancel: Ваш платеж будет отменен.
+private_owner: частный владелец
+selected_package: Выбранный пакет
+signup_with_social_account: Регистрация с социальной счет
+password: пароль
+confirm_password: Подтвердите Пароль
+all_posts: Все сообщения
+no_posts: Сообщений Нет
+title: название
+description: описание
+status: статус
+actions: действия
+action: действие
+type: тип
+type_something: Введите что-то
+content: содержание
+featured_image: Популярные изображения
+category: категория
+all_categories: Все категории
+edit_category: Редактировать категория
+new_category: Новая категория
+parent: родитель
+edit: редактировать
+delete: удалять
+name: имя
+save: Сохранить
+no_parent: Нет родителей
+edit_email_template: Редактировать шаблон электронной почты
+select_template_file: Выберите файл шаблона
+subject: тема
+body: тело
+available_variables: Доступные переменные
+select_language: Выберите язык
+select_language_file: Выберите файл языка
+edit_as_new: Редактировать как новое
+language: язык
+add_another: Добавить еще
+export_to_file: Экспорт в файл
+import_from_file: Импорт из файла
+auto_translator: Авто переводчик
+from_lang: От языке
+target_lang_full_name: Целевая Lang полное имя
+target_lang_short_name: Целевая Lang Краткое наименование
+create_new_package: Создать новый пакет
+price: цена
+maximum_post_by_user: Максимум сообщений пользователя
+expirtion_time: Время Expirtion ( дней)
+create_package: Create Package
+edit_package: Редактировать пакет
+update_package: пакет обновления
+add_packages: Добавление пакетов
+all_packages: Все пакеты
+no_packages: Нет пакеты
+options: опции
+all_pages: Все страницы
+no_pages: Нет страницы
+manage_menu: Управление меню
+menu_title: Название меню
+menu_alias: Меню псевдоним
+show_in_menu: Показать в меню
+page_layout: макет страницы
+content_from: Содержание из
+url: Url
+seo_options: варианты SEO
+meta_description: Мета описание
+key_words: Ключевые слова
+crawl_after: Сканирование после ( дней )
+all_plugins: Все плагины
+no_plugins: Нет плагины
+name_and_version: Название и версия
+change_password: сменить пароль
+current_password: Текущий пароль
+new_password: Новый пароль
+retype_password: Введите пароль еще раз
+password_reset_info_msg: Пожалуйста, первый набор новый пароль
+edit_profile: Редактировать профиль
+profile_picture: Профиль фото
+username: Имя пользователя
+email: Email
+first_name: Имя
+last_name: фамилия
+gender: пол
+phone: телефон
+company_name: Название Компании
+about_me: Обо Мне
+facebook_account: счет facebook
+twitter_account: Твиттере
+linkedin_account: счет Linkedin
+gp_account: счетом Google+
+account_msg: 'Пожалуйста, введите ссылку , без HTTP: //'
+web_email_settings: Настройки почте через веб-
+contact_email: Контактный адрес электронной почты
+webadmin_name: Имя Webadmin
+webadmin_email: Webadmin Email
+update: обновление
+upload: Загрузить
+site_settings: Настройки сайта
+site_title: Название сайта
+footer_text: Сноска
+site_logo: Логотип сайта
+site_language: Язык сайта
+site_text_direction: Сайт Направление текста
+per_page: Разбивка на страницу
+default_page_layout: По умолчанию Макет страницы
+tracking_code: Код отслеживания
+smtp_email_settings: SMTP Настройки электронной почты
+smtp_email: SMTP Email
+smtp_host: SMTP хост
+smtp_port: Порт SMTP
+smtp_timeout: SMTP Тайм-аут
+smtp_user: SMTP Пользователь
+smtp_password: Пароль SMTP
+generate_site_map: Создать Карта сайта
+sitemap_info_msg: 
+pages: страницы
+blog_posts: Сообщения в блоге
+articles: Статьи
+blog_post: сообщение в блоге
+blog: сообщение в блоге
+article: статья
+news: новости
+view_xml: Посмотреть XML
+create_xml: Создать XML
+manage_backups: управление копированием
+create_sql_backup: Создать SQL резервное копирование
+create_image_backup: Создать резервную копию изображения
+restore: восстановление
+download: скачать
+dashboard: приборная панель
+overview_stats_more: Обзор , Статистика и многое другое
+visit_site: Посетите сайт
+logout: Выход
+themes: Темы
+locations: Местоположение
+paypal_settings: Настройки Paypal
+payment_history: История платежей
+profile: профиль
+packages: пакеты
+widgets: Виджеты
+all_widgets: Все Виджеты
+widget_positions: Виджет Позиции
+blog_news_article: Блог / Новости / Статья
+new_post: Новое сообщение
+pages_and_menu: Страницы и меню
+new_page: Новая страница
+menu: меню
+system: система
+manage_languages: Управление Языки
+auto_translate: Авто Перевести
+edit_email_text: Редактировать текст сообщения электронной почты
+admin_settings: Настройки Web Admin
+sitemap: Карта сайта
+activate: активировать
+active_theme: Активная тема
+available_themes: Доступные темы
+all_users: Все пользователи
+create_user: Создать пользователя
+export_user_email: Письма Экспорт пользователей ( CSV)
+profile_info: Профиль пользователя
+ban_forever: Запрет Навсегда
+edit_page: Редактировать страницу
+create_widget: Создать виджет
+widget_name: Виджет Имя
+activate_deactivate: Включение / деактивировать
+show: шоу
+available_widgets: Доступные Виджеты
+active_widgets: Активные Виджеты
+delete_warning: Вы уверены, что хотите сделать удалить.
+yes: Да
+no: Нет
+product_name: Бизнес справочник
+fa_icon: FA пиктограмма класса
+post_ad: Список бизнес
+post_ad_subtitle: 'Положите вашу бизнес- детали'
+signin: Войти В Систему
+signup: Зарегистрироваться
+signup_title: Создать аккаунт
+not_found: не найдено
+purpose: цель
+purpose_buy: купить
+purpose_sell: продавать
+select_category: Выберите категорию
+contact_for_price: Контакт для цены
+address_info: информация об адресе
+general_info: Общая информация
+upload_later_msg: Вы сможете загрузить ГАЛЕРЕЯ фото и видео URL после создания сообщению
+user_panel: панель пользователя
+put_as_comma_seperated: положить в (,) запятая sperated
+added: добавленной
+location: расположение
+views: мнения
+package_type: тип
+post_package: сообщение пакет
+featured_package: Рекомендуемые пакет
+both_package: Почта и признакам
+select_package: Выберите пакет
+package_created: Пакет создано
+package_updated: Пакет обновляются
+slider: ползунок
+add_new: Добавить
+new_slide: Новый слайд
+update_slide: Обновление слайд
+save_order: Сохранить порядок
+slider_sort_instruction: Вы можете перетащить падение для сортировки строк таблицы . 
+search: поиск
+results: результаты
+property_location_on_map: Местонахождение объекта на карте
+location_on_map: Положение на карте
+contact_mode: Связаться с Режим
+reset: сброс
+contact: контакт
+default_site_view: Вид по умолчанию сайт
+type_your_message: Введите Ваше сообщение здесь ..
+mail_sent: почты, отправленных
+search_classifieds: Поиск BusinessDirectorys
+advanced_search: Расширенный поиск
+narrow_down_your_businesses: Конкретизируйте вашего бизнеса
+home: домой
+print: печать
+remember_me: Запомнить Меня
+forgot_password: Забыли Пароль
+login_failed: Войти не удалось
+login_to_your_account: Войдите в свой аккаунт
+register_your_account: Зарегистрируйте свой счет
+male: мужчина
+female: женщина
+no_location_found: Местоположение не найдено
+state: государственный
+ad_creation_error: Ошибка при создании объявлений ! 
+users: пользователи
+show_admin_user: Показать Пользователь Admin
+send_email_to_business: Отправить на e-mail к делу
+DBC_PAYMENT_PENDING: Оплата ожидании
+DBC_EXPIRED: истек срок действия
+categories: категории
+top_posts: Лучшие сообщения
+show_state_province: Показать государство Область
+package_settings: Пакет параметров
+default_site_settings: Настройки сайта по умолчанию
+webadmin_settings: Настройки Веб Администрирования
+banner_settings: Настройки Баннер
+max_price_for_search: Макс цена для поиска
+search_filters: Фильтры поиска
+posts_per_page: Сообщений на странице
+recent_posts: Последние сообщения
+featured_posts: Популярные сообщения
+top_locations: Топ городов
+top_users: Топ
+approve: утвердить
+make_featured: Сделать признакам
+remove_featured: Удалить признакам
+renew_featured: Обновить признакам
+renew_package: Обновить пакет
+no_renew_post_id: Неверный возобновить идентификатор сообщения
+approve_payment: Утвердить выплату
+transaction: сделка
+transaction_id: ID транзакции
+post_id: сообщение ID
+amount: количество
+request_date: Дата заявки
+expiration_date: срок годности
+transaction_deleted: сделка удален
+payment_approved: Оплата утвержден
+logged_in_as: Вы вошли как
+posted_on: Опубликовано
+confirm_email_send: Подтверждение по электронной почте send.Please следуйте инструкциям из этой электронной почте.
+email_confirmed: Email подтвержена теперь могут авторизоваться вашей электронной почты и пароль
+email_confirmed_failed: Подтверждение failed.Confirmation адрес электронной почты и код не совпадают.
+password_change_success: Пароль успешно изменен
+email_sent_inbox: E-mail отправляется на Вашу inbox.Check этом письме .
+password_recovery_link_invalid: Password Recovery Ссылка не действительна
+user_updated: Пользователь Обновлено
+user_deleted: Пользователь Удален
+user_banned: Пользователь Banned
+user_unbanned: Пользователь Unbanned
+user_confirmed: Пользователь Подтверждено
+post_deleted: пост удален
+post_updated: сообщение Создано
+post_created: сообщение Создано
+post_featured: сообщение Рекомендуемые
+data_inserted: вставленные данные
+data_updated: Последнее обновление
+feature_renewed: Особенность Обновлено
+post_feature_removed: Сообщение Feature Удалены
+post_approved: сообщение Утверждено
+invalid_post: Неверный сообщение
+email_sent: Электронная почта посланная
+settings_updated: Настройки Обновлено
+package_removed: Пакет Удалены
+page_updated: Страница обновлена
+page_created: Страница создана
+page_deleted: Page удаленных
+menu_updated: Меню Обновлено
+site_map_generation_success: Карта сайта успешно создаваться .
+select_option: Пожалуйста, выберите одно или более выбора параметров.
+image_backup_created: Резервное копирование образа, созданного
+language_translated: Язык Перевод
+unavle_to_write_file: Невозможно записать файл
+backup_deleted: Резервное копирование удаленных
+database_restored: восстановленную базу данных
+theme_activated: тема Активированный
+user_created: Пользователь Создано
+widget_position_updated: Виджет ПОлОжЕНИЕ Обновлено
+widget_created: Виджет Создано
+widget_data_updated: Виджет Последнее обновление
+unable_to_write_widget: Невозможно записать виджет
+post_created_and_published: Сообщение создано и опубликовано
+post_created_approval: Сообщение создан и ждет одобрения администратора
+post_package_renewed: Сообщение пакет обновляется
+payment_finish: Оплата отделка
+payment_cancelled: Операция отменена
+admin_change_pass_help: Оставьте пустым, если никаких изменений не требуется
+go_to_paypal: Перейти к Paypal
+login_with_google: Войти Google
+login_with_facebook: Войти через Facebook
+load_more_recent_posts: Загрузить еще Последние сообщения
+load_more_featured_posts: Загрузите больше РЕКОМЕНДУЕМЫЕ сообщения
+register_for_new_account: Регистрация для новой учетной записи
+site_map: Карта сайта
+show_site_map: Карта Открыть сайт
+service: служба
+features: особенности
+about: о
+view_posts: Найти сообщения
+see_full_documentation: См полную документацию
+select_city: Выбрать город
+parallax_slider: Parallax Slider
+all_slides: Все слайды
+no_slide: Нет слайд
+slide_order: Презентация порядок
+post_price_settings: Постконфликтных цен
+enable_post_pricing: Включить после цены
+enable_paypal_transfer: Включить PayPal
+enable_bank_transfer: Включить банковский перевод
+bank_transfer_instruction_for_posts: Банковский перевод инструкций
+featured_price_settings: Рекомендуемые настройки цен
+enable_featured_pricing: Включить признакам цены
+enable_featured_paypal: Включить PayPal
+enable_featured_bank_transfer: Включить банковский перевод
+bank_transfer_instruction_for_featured_posts: Банк Команда передачи
+bank_currency_settings: Настройки Банка валютные
+bank_currency: Валютные курсы
+use_same_as_paypal_currency: Используйте так же, как Paypal валюте
+admin: Админ
+re_password: Введите пароль еще раз
+explain_widget_position: Объясните виджетов позиции
+post: после
+post_renew: сообщение Renew
+feature: особенность
+feature_renew: ункция Обновить
+payment_for: Оплата
+select_country: Выберите страну
+select_one: Выберите один
+video_url: Vidoe URL
+confirm_payment: Подтвердите Оплата
+package_title: Пакет Название
+number_of_featured_days: Количество дней, которые будут признакам
+no_of_days: Нет дней
+expiration_time: Время окончания срока действия
+any_city: Любой город
+any_category: Любые Категория
+product_admin_panel: Whiz Админ
+username_or_email: Имя пользователя или адрес электронной почты
+business_detail: Бизнес деталь
+post_detail_subtitle: 
+posts_by: Сообщения по
+featured: Рекомендуемые
+edit_user: Редактирование пользователя
+the_field_is_required: Поле % S не требуется.
+valid_email: Поле % S должно содержать корректный адрес электронной почты.
+min_length: Поле % S должен быть, по крайней мере, символов % с.
+numeric: Поле % S должен содержать только цифры .
+matches: Поле % S не соответствует поле % S в .
+greater_than: Поле % S должен содержатьчисло, большее , чем % S .
+agree_terms: Я читал % S в сроки и условия % S
+must_accept_terms: Вы должны принять условия и сроки
+dont_have_permission: Вы не имеете доступа к этой странице
+email_allready_in_use: Email уже используется
+username_allready_in_use: Логин Allready в использовании
+current_password_not_matched: Текущий пароль Ждут \ 'т матч
+email_not_matched: Электронная почта не совпадает
+account_not_confirmed: Счет не подтверждается
+all_locations: Все места
+add_country: Добавить страну
+add_state: Добавить состояние
+add_city: Добавить город
+no_locations: Нет места
+banner_type: Тип баннера
+bg_image: фон изображения
+unique_alias: Поле % S должен быть уникальным
+error_occured: Произошла ошибка . 
+user_profile: Профиль пользователя
+user_email: Email Пользователь
+target_lang_name: язык перевода
+no_emails: Нет письма
+to: для
+classified_settings: объявления Настройки
+publish_posts_directly: Опубликовать сообщения прямо
+system_currency: валютной системы
+enable_signup: Включить Регистрация
+if_package_expired: Если пакет истек
+do_not_hide: Не скрывайте
+hide: скрывать
+show_price_like: формат Цена
+facebook_app_settings: Facebook приложение настройки
+enable_facebook_login: Включить facebook логин
+fb_app_id: Facebook идентификатор приложения
+fb_secret_key: Facebook секретный ключ
+comment_settings: настройки комментарий
+enable_comment: Включить комментарий
+disqus_shortname: Disqus ShortName
+sandbox_mode: Режим песочницы
+item_name: Пункт имя
+paypal_email: Paypal по электронной почте
+currency: валюта
+finish_url: Отделка гиперссылка
+cancel_url: Отменить URL
+menu_background: фон меню
+menu_text_color: Цвет текста меню
+activated_menu_color: Цвет Активированный меню
+top_bar_bg: Верхняя панель BG
+activated_menu_text_color: Цвет Активированный текстовое меню
+latitude: широта
+longitude: долгота
+map_zoom: Карта Увеличить
+search_panel_settings: Настройки поиска панели
+search_panel_bg_color: Панель поиска BG цвета
+show_background_image: Показать фоновое изображение
+active_widget_position: Активная позиция виджет
+upload_and_install: Загрузить и установить
+install_updates: Установить обновления / Темы / Плагины / Виджеты
+confirmation_email: Подтверждение по электронной почте
+recovery_email: восстановления электронной почты
+signup_notification_email: Уведомление Регистрация по электронной почте
+payment_confirmation_email: Подтверждение оплаты по электронной почте
+click_and_edit: Выберите файл шаблона и нажмите кнопку Изменить
+google_analytics_settings: AnalyticsSettings Google
+default_seo_settings: Настройки по умолчанию SEO
+individual: человек
+find_us_on_facebook: Найти нас на Facebook
+category_featured_posts: Популярные сообщения
+load_more_posts: Загрузить еще
+home_page_title: Поиск и пост категории Топ объявления
+no_posts_found: Нет сообщений
+type_anything: Введите что-нибудь
+chosen_not_found: К сожалению , ничего не найдено !
+rating_asc: Рейтинг по возрастанию
+rating_desc: Рейтинг по убыванию
+id_desc: Id убыванию
+id_asc: Id возрастанию
+show_daily_menu: Показать ежедневное меню
+website: сайт
+founded: основан
+year: год
+price_range: Диапазон цен
+additional_features: Дополнительные возможности
+add_more_fields: Добавить несколько полей
+remove: удалять
+distance_around_my_position: Расстояние вокруг мое положение
+show_distance_in: Показать Расстояние в
+business_listed: Бизнес в списке
+show_street_view: Показать Street View
+list_business: Список бизнес
+search_businesses: Поиск Компании
+top_businesses: Ведущие бизнесы
+featured_businesses: Популярные Компании
+business_directory_settings: Настройки Бизнес-справочник
+hide_email: Скрыть адрес электронной почты
+hide_phone: Скрыть телефон
+review: обзор
+comment: комментарий
+submit_review: Добавить отзыв
+rating: рейтинг
+review_alert: Вы должны войти в систему , чтобы представить обзор .
+new_business: Новый бизнес
+identify_my_location: Определить свое местоположение
+data_deleted: Данные, удаленные
+recent_reviews: Последние отзывы
+view_all_reviews: Посмотреть все отзывы
+review_deleted: Обзор удаленных
+review_detail: подробно
+all_reviews: Все отзывы
+monday: понедельник
+tuesday: вторник
+wednesday: среда
+thursday: четверг
+friday: пятница
+saturday: суббота
+sunday: воскресенье
+opening_hour: Открытие час
+closed: закрыто
+airport: аэропорт
+cafe: кафе
+cinemas: Кинотеатры
+hotels_and_resorts: Отели и курорты
+libraries: Библиотеки
+night_clubs: Ночные клубы
+offices: Офисы
+restaurants: ресторан
+shops: Магазины
+review_submitted: Обзор , представленный
+social_links: Социальные ссылки
+upgrade_browser: Обновление браузера
+please_upgrade_your_browser: Пожалуйста , обновите ваш браузер
+business: Бизнес
+introduction: введение

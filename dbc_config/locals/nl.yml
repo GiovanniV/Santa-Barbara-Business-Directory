@@ -1,0 +1,582 @@
+---
+sign_in: Aanmelden
+sign_up: Inschrijven
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+DBC_ADVANCED_SEARCH: geavanceerd Zoeken
+DBC_HOME: huis
+DBC_ABOUT: over
+DBC_CONTACT: contact
+country: land
+state_province: Staat / Provincie
+city: City
+register: Registreer
+details: Details
+view_all: Bekijk Alles
+order_by: Door Bestel
+none: geen
+terms_and_conditions: Algemene confition
+reg_success_message: Je account registratie is succesvol . 
+limit: limiet
+usage: gebruik
+recover: herstellen
+oops: Oeps , pagina niet gevonden
+share_this: Deel Dit
+location_map: Plattegrond
+image_gallery: Image Gallery
+gallery: galerij
+summary: overzicht
+overview: Overzicht
+address: adres
+message: bericht
+email_subject: e-mail Onderwerp
+all: alle
+DBC_DELETED: verwijderde
+contact_us: Contacteer ons
+DBC_ACTIVE: actief
+featured_video: Aanbevolen video
+estates: landgoederen
+embed_video_url: Embeded Video Url
+DBC_PENDING: in afwachting van
+email_tracker: e-mail Tracker
+bulk_email: bulk Email
+advanced_filters: geavanceerde filters
+result: resultaat
+payment_notification: Je gaat naar een betaling uit te voeren . 
+confirmation: bevestiging
+tags: Tags
+zip_code: Postcode
+embed_preview: Voorbeelden insluiten
+login: Log In
+post_not_found: Plaats niet gevonden
+view_more: Meer bekijken
+choose_a_package: Kies een pakket
+choose_feature_package: Kies een functiepakket
+no_package_found: Geen pakket gevonden
+days: dagen
+posts: berichten
+change: verandering
+subscribe: abonneren
+image: afbeelding
+view_on_map: Bekijk op de kaart
+create: creëren
+basic_info: Basis Informatie
+send: sturen
+all_email_to_users: Alle e-mails voor gebruikers
+email_detail: e-mail Detail
+change_package: Change Package
+bank_transfer: overschrijving
+contact_subject: Contact E-mail
+payment_finish_title: betaling Compleet
+payment_renew_title: betaling Compleet
+payment_finish_text: Uw betaling is voltooid. 
+payment_renew_text: Uw betaling is voltooid. 
+payment_cancel_title: betaling Annuleren
+payment_cancel_text: Uw betaling wordt geannuleerd
+feature_payment_finish: Uw betaling is voltooid. 
+feature_payment_cancel: Uw betaling wordt geannuleerd .
+private_owner: particuliere eigenaar
+selected_package: geselecteerde Pakket
+signup_with_social_account: Inschrijven met sociale rekening
+password: wachtwoord
+confirm_password: Bevestig Wachtwoord
+all_posts: alle berichten
+no_posts: geen berichten
+title: titel
+description: beschrijving
+status: toestand
+actions: acties
+action: actie
+type: type
+type_something: Typ iets
+content: inhoud
+featured_image: Featured Image
+category: categorie
+all_categories: alle categorieën
+edit_category: categorie bewerken
+new_category: nieuwe categorie
+parent: ouder
+edit: uitgeven
+delete: verwijderen
+name: naam
+save: Opslaan
+no_parent: geen enkele ouder
+edit_email_template: E-mail template bewerken
+select_template_file: Kies een template -bestand
+subject: onderwerp
+body: lichaam
+available_variables: beschikbare variabelen
+select_language: Taal selecteren
+select_language_file: Kies taalbestand
+edit_as_new: Bewerken als nieuw
+language: taal
+add_another: Voeg andere
+export_to_file: Exporteren naar bestand
+import_from_file: Importeren uit bestand
+auto_translator: Auto vertaler
+from_lang: van lang
+target_lang_full_name: Target lang volledige naam
+target_lang_short_name: Target lang korte naam
+create_new_package: Nieuw pakket maken
+price: prijs
+maximum_post_by_user: Maximale berichten van gebruiker
+expirtion_time: Expirtion tijd ( dagen )
+create_package: Maak Pakket
+edit_package: pakket bewerken
+update_package: updatepakket
+add_packages: pakketten toe te voegen
+all_packages: alle pakketten
+no_packages: geen pakketten
+options: opties
+all_pages: alle pagina's
+no_pages: geen enkele pagina
+manage_menu: Beheer menu
+menu_title: menu Titel
+menu_alias: menu alias
+show_in_menu: Toon in menu
+page_layout: pagina layout
+content_from: inhoud van
+url: url
+seo_options: SEO opties
+meta_description: meta description
+key_words: Steekwoorden
+crawl_after: Crawl na ( dagen)
+all_plugins: alle plugins
+no_plugins: geen plugins
+name_and_version: Naam en versie
+change_password: verander wachtwoord
+current_password: huidig ​​wachtwoord
+new_password: nieuw Wachtwoord
+retype_password: Geef nogmaals het wachtwoord
+password_reset_info_msg: Gelieve Stel eerst uw nieuwe wachtwoord
+edit_profile: bewerk profiel
+profile_picture: profielfoto
+username: gebruikersnaam
+email: e-mail
+first_name: Voornaam
+last_name: achternaam
+gender: geslacht
+phone: telefoon
+company_name: Bedrijfsnaam
+about_me: over Mij
+facebook_account: Facebook-account
+twitter_account: Twitter-account
+linkedin_account: LinkedIn-account
+gp_account: Google+ account
+account_msg: 'Vul de koppeling , zonder http : //'
+web_email_settings: Web E-mailinstellingen
+contact_email: Contact E-mail
+webadmin_name: webadmin Naam
+webadmin_email: webadmin Email
+update: -update
+upload: uploaden
+site_settings: Site-instellingen
+site_title: Site Title
+footer_text: footer Text
+site_logo: Site Logo
+site_language: Site Taal
+site_text_direction: Site Text Direction
+per_page: Paginering per pagina
+default_page_layout: Standaardpagina-indeling
+tracking_code: Tracking Code
+smtp_email_settings: SMTP E-mailinstellingen
+smtp_email: SMTP e-
+smtp_host: SMTP Host
+smtp_port: SMTP-poort
+smtp_timeout: SMTP-timeout
+smtp_user: SMTP Gebruiker
+smtp_password: SMTP-wachtwoord
+generate_site_map: Genereer Sitemap
+sitemap_info_msg: 
+pages: pagina's
+blog_posts: blog berichten
+articles: artikelen
+blog_post: blog Post
+blog: blogpost
+article: artikel
+news: nieuws
+view_xml: Bekijk XML
+create_xml: Maak XML
+manage_backups: Beheer Backups
+create_sql_backup: Maak SQL Backup
+create_image_backup: Maak Image Backup
+restore: herstellen
+download: Download
+dashboard: dashboard
+overview_stats_more: Overzicht , statistieken en meer
+visit_site: bezoek site
+logout: uitloggen
+themes: Thema's
+locations: locaties
+paypal_settings: Paypal Instellingen
+payment_history: Betaalgeschiedenis
+profile: profiel
+packages: colli
+widgets: widgets
+all_widgets: alle Widgets
+widget_positions: widget posities
+blog_news_article: Blog / Nieuws / Artikel
+new_post: nieuwe post
+pages_and_menu: Pagina's & Menu
+new_page: New Page
+menu: menu
+system: systeem
+manage_languages: Beheer Talen
+auto_translate: Auto Translate
+edit_email_text: Bewerk Email Tekst
+admin_settings: Web Admin Settings
+sitemap: Sitemap
+activate: activeren
+active_theme: actieve Theme
+available_themes: beschikbaar Thema
+all_users: alle gebruikers
+create_user: Gebruiker aanmaken
+export_user_email: Export Gebruiker Emails ( .csv )
+profile_info: profiel Info
+ban_forever: Ban blijvend
+edit_page: Pagina bewerken
+create_widget: Maak Widget
+widget_name: widget Naam
+activate_deactivate: Activeren / deactiveren
+show: tonen
+available_widgets: beschikbaar Widgets
+active_widgets: actieve Widgets
+delete_warning: Weet je zeker wilt doen verwijderen.
+yes: ja
+no: geen
+product_name: Bedrijvengids
+fa_icon: FA icoon klasse
+post_ad: lijst bedrijf
+post_ad_subtitle: Zet uw bedrijf detail
+signin: Aanmelden
+signup: Inschrijven
+signup_title: Maak je eigen account
+not_found: niet gevonden
+purpose: doel
+purpose_buy: kopen
+purpose_sell: verkopen
+select_category: Kies een Categorie
+contact_for_price: Contact voor prijs
+address_info: Adres Info
+general_info: Algemene informatie
+upload_later_msg: Je zult in staat zijn om galerij foto's en video url uploaden na post creatie
+user_panel: gebruikerspanel
+put_as_comma_seperated: zetten als ( , ) komma sperated
+added: Toegevoegd
+location: plaats
+views: Bekeken
+package_type: type
+post_package: postpakket
+featured_package: Aanbevolen pakket
+both_package: Post en gekenmerkt
+select_package: Kies een pakket
+package_created: pakket gemaakt
+package_updated: pakket bijgewerkt
+slider: schuif
+add_new: Voeg nieuwe
+new_slide: nieuwe dia
+update_slide: slide -update
+save_order: Opslaan orde
+slider_sort_instruction: U kunt neerzetten slepen om de tafel rijen afstand. 
+search: zoeken
+results: resultaten
+property_location_on_map: Woning Landkaart
+location_on_map: Landkaart
+contact_mode: Contact Mode
+reset: Reset
+contact: contact
+default_site_view: Standaardsite uitzicht
+type_your_message: Typ uw bericht hier ..
+mail_sent: mail
+search_classifieds: Zoek BusinessDirectorys
+advanced_search: geavanceerd Zoeken
+narrow_down_your_businesses: Een beperking van uw bedrijf
+home: huis
+print: afdruk
+remember_me: Onthoud Me
+forgot_password: Wachtwoord Vergeten
+login_failed: Inloggen mislukt
+login_to_your_account: Inloggen op uw account
+register_your_account: Registreer uw account
+male: mannelijk
+female: vrouwelijk
+no_location_found: Geen Woonplaats Gevonden
+state: staat
+ad_creation_error: Fout in ad creatie! 
+users: gebruikers
+show_admin_user: Toon Admin User
+send_email_to_business: Stuur E-mail naar bedrijf
+DBC_PAYMENT_PENDING: In afwachting van betaling
+DBC_EXPIRED: verlopen
+categories: Categorieën
+top_posts: Top berichten
+show_state_province: Toon Staat Provincie
+package_settings: pakket Instellingen
+default_site_settings: Standaard Site-instellingen
+webadmin_settings: webadmin Instellingen
+banner_settings: banner Instellingen
+max_price_for_search: Max Prijs voor Search
+search_filters: Zoek Filters
+posts_per_page: Berichten per pagina
+recent_posts: recente berichten
+featured_posts: Aanbevolen berichten
+top_locations: toplocaties
+top_users: Top Gebruikers
+approve: goedkeuren
+make_featured: Maak aanbevolen
+remove_featured: Verwijder aanbevolen
+renew_featured: Renew aanbevolen
+renew_package: vernieuwen pakket
+no_renew_post_id: Ongeldige vernieuwen id van het bericht
+approve_payment: goedkeuren van betaling
+transaction: transactie
+transaction_id: transactie id
+post_id: id van het bericht
+amount: bedrag
+request_date: datum aanvraag
+expiration_date: houdbaarheidsdatum
+transaction_deleted: transactie verwijderd
+payment_approved: betaling goedgekeurd
+logged_in_as: Aangemeld als
+posted_on: geplaatst op
+confirm_email_send: Bevestigingsmail send.Please volg de instructies van die e-mail .
+email_confirmed: E-mail confirmed.You kan nu inloggen met uw emailadres en wachtwoord
+email_confirmed_failed: Bevestiging failed.Confirmation e-mail en de code komt niet overeen.
+password_change_success: Wachtwoord succesvol gewijzigd
+email_sent_inbox: Een e-mail is naar uw inbox.Check dat e-mail .
+password_recovery_link_invalid: Password Recovery Link is niet geldig
+user_updated: gebruiker Bijgewerkt
+user_deleted: gebruiker Verwijderde
+user_banned: gebruiker Banned
+user_unbanned: gebruiker unbanned
+user_confirmed: gebruiker bevestigd
+post_deleted: post is verwijderd
+post_updated: bericht Gemaakt
+post_created: bericht Gemaakt
+post_featured: bericht Featured
+data_inserted: gegevens ingebracht
+data_updated: gegevens Bijgewerkt
+feature_renewed: feature Hernieuwde
+post_feature_removed: Bericht Feature Verwijderd
+post_approved: bericht Goedgekeurd
+invalid_post: ongeldige Bericht
+email_sent: e-mail Verzonden
+settings_updated: instellingen Bijgewerkt
+package_removed: pakket verwijderd
+page_updated: pagina Bijgewerkt
+page_created: pagina Gemaakt
+page_deleted: pagina Deleted
+menu_updated: menu Bijgewerkt
+site_map_generation_success: Sitemap succes gegenereerd .
+select_option: Selecteer een of meerdere opties te selecteren .
+image_backup_created: Afbeelding Backup Gemaakt
+language_translated: taal vertaald
+unavle_to_write_file: Kan bestand schrijven
+backup_deleted: backup Deleted
+database_restored: Database Hersteld
+theme_activated: thema Geactiveerde
+user_created: gebruiker Gemaakt
+widget_position_updated: Widget Postie Bijgewerkt
+widget_created: widget Gemaakt
+widget_data_updated: Widget Gegevens Bijgewerkt
+unable_to_write_widget: Kan niet schrijven widget
+post_created_and_published: Bericht gemaakt en gepubliceerd
+post_created_approval: Bericht gemaakt en wachten op goedkeuring van de beheerder
+post_package_renewed: Postpakket vernieuwd
+payment_finish: betaling afwerking
+payment_cancelled: betaling geannuleerd
+admin_change_pass_help: Laat leeg als er geen verandering nodig
+go_to_paypal: Ga naar Paypal
+login_with_google: Login met Google
+login_with_facebook: Login met Facebook
+load_more_recent_posts: Laad meer recente berichten
+load_more_featured_posts: Laden Actuele berichten
+register_for_new_account: Registreer als nieuwe account
+site_map: Sitemap
+show_site_map: Toon site map
+service: dienst
+features: kenmerken
+about: over
+view_posts: Bekijk berichten
+see_full_documentation: Zie de volledige documentatie
+select_city: Kies een stad
+parallax_slider: Parallax Slider
+all_slides: alle dia's
+no_slide: geen glijbaan
+slide_order: dia orde
+post_price_settings: Bericht prijs instellingen
+enable_post_pricing: Enable bericht prijsstelling
+enable_paypal_transfer: Enable paypal
+enable_bank_transfer: Enable overschrijving
+bank_transfer_instruction_for_posts: Bankoverboekingopdracht
+featured_price_settings: Aanbevolen prijs instellingen
+enable_featured_pricing: Enable gekenmerkte prijsstelling
+enable_featured_paypal: Enable paypal
+enable_featured_bank_transfer: Enable overschrijving
+bank_transfer_instruction_for_featured_posts: Bankoverboekingopdracht
+bank_currency_settings: Bank valuta-instellingen
+bank_currency: Bank munt
+use_same_as_paypal_currency: Gebruik hetzelfde als PayPal valuta
+admin: admin
+re_password: Geef nogmaals het wachtwoord
+explain_widget_position: Uitleggen widget posities
+post: post
+post_renew: bericht Renew
+feature: kenmerken
+feature_renew: Feature Renew
+payment_for: betaling voor
+select_country: Selecteer Land
+select_one: Selecteer Een
+video_url: vidoe URL
+confirm_payment: bevestigt de betaling
+package_title: pakket Titel
+number_of_featured_days: Aantal dagen te worden vermeld
+no_of_days: Aantal dagen
+expiration_time: expiratie Tijd
+any_city: elke stad
+any_category: elke Categorie
+product_admin_panel: Whiz Admin
+username_or_email: Gebruikersnaam of email
+business_detail: zakelijke detail
+post_detail_subtitle: 
+posts_by: berichten van
+featured: Featured
+edit_user: gebruiker bewerken
+the_field_is_required: De % s veld is verplicht .
+valid_email: De % s veld moet een geldig e-mailadres bevatten .
+min_length: De % s -veld moet minimaal % s tekens .
+numeric: De % s veld mag alleen cijfers bevatten .
+matches: De % s veld niet overeenkomt met % s veld .
+greater_than: De % s veld moet een getal groter dan % s bevatten .
+agree_terms: Ik heb de % s voorwaarden % s gelezen
+must_accept_terms: U moet bepalingen en voorwaarden te accepteren
+dont_have_permission: Je hebt geen toestemming om deze pagina te bekijken
+email_allready_in_use: Email is al in gebruik
+username_allready_in_use: Gebruikersnaam alweer in gebruik
+current_password_not_matched: Huidig ​​wachtwoord heb \ 't match
+email_not_matched: E-mail niet geëvenaard
+account_not_confirmed: Rekening niet bevestigd
+all_locations: alle locaties
+add_country: land toe te voegen
+add_state: staat toe te voegen
+add_city: stad toevoegen
+no_locations: geen locaties
+banner_type: banner type
+bg_image: achtergrondafbeelding
+unique_alias: De % s veld moet uniek zijn
+error_occured: Fout opgetreden . 
+user_profile: Gebruikersprofiel '
+user_email: gebruiker e-mail
+target_lang_name: doeltaal
+no_emails: geen e-mails
+to: naar
+classified_settings: Classified Instellingen
+publish_posts_directly: Publiceer berichten direct
+system_currency: systeemvaluta
+enable_signup: Enable signup
+if_package_expired: Als pakket verlopen
+do_not_hide: Niet verbergen
+hide: verbergen
+show_price_like: Prijs formaat
+facebook_app_settings: Facebook app instellingen
+enable_facebook_login: Enable facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook geheime sleutel
+comment_settings: reactie instellingen
+enable_comment: reactie mogelijk te maken
+disqus_shortname: Disqus Shortname
+sandbox_mode: sandbox -modus
+item_name: naam van het item
+paypal_email: paypal e-mail
+currency: valuta
+finish_url: afwerking url
+cancel_url: Annuleren url
+menu_background: menu achtergrond
+menu_text_color: Menu tekstkleur
+activated_menu_color: Geactiveerd menu kleur
+top_bar_bg: Bovenste balk bg
+activated_menu_text_color: Geactiveerd menu tekstkleur
+latitude: breedte
+longitude: lengte
+map_zoom: kaart zoom
+search_panel_settings: Zoek paneelinstellingen
+search_panel_bg_color: Zoek panel bg kleur
+show_background_image: Afbeelding tonen achtergrond
+active_widget_position: Actieve widget positie
+upload_and_install: Uploaden en te installeren
+install_updates: Updates installeren / Thema's / Plugins / Widgets
+confirmation_email: bevestiging e-mail
+recovery_email: herstel e-mail
+signup_notification_email: E-mail Inschrijven notificatie
+payment_confirmation_email: Betaling bevestigingsmail
+click_and_edit: Selecteer een template -bestand en klik op Bewerken
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Standaard SEO instellingen
+individual: individu
+find_us_on_facebook: Vind ons op Facebook
+category_featured_posts: Aanbevolen berichten
+load_more_posts: Meer Laden
+home_page_title: Zoek en post categorie top advertenties
+no_posts_found: geen berichten
+type_anything: Typ Anything
+chosen_not_found: Oops , niets gevonden !
+rating_asc: Waardering oplopend
+rating_desc: Waardering aflopend
+id_desc: id Aflopend
+id_asc: id Oplopend
+show_daily_menu: Toon Dagmenu
+website: website
+founded: gesticht
+year: jaar
+price_range: prijsklasse
+additional_features: extra functies
+add_more_fields: Voeg meer velden
+remove: verwijderen
+distance_around_my_position: Afstand rond mijn positie
+show_distance_in: Toon Afstand in
+business_listed: bedrijf wordt weergegeven
+show_street_view: Toon Street View
+list_business: Nieuwsbrief Bedrijvengids
+search_businesses: Bedrijven zoeken
+top_businesses: Top Bedrijven
+featured_businesses: Aanbevolen Bedrijven
+business_directory_settings: Bedrijvengids Instellingen
+hide_email: verbergen e-mail
+hide_phone: verbergen telefoon
+review: recensie
+comment: commentaar
+submit_review: review versturen
+rating: Waardering
+review_alert: Je moet ingelogd zijn om een ​​recensie te dienen .
+new_business: New Business
+identify_my_location: Identificeer mijn locatie
+data_deleted: gegevens worden gewist
+recent_reviews: recente beoordelingen
+view_all_reviews: Bekijk alle beoordelingen
+review_deleted: beoordeling Deleted
+review_detail: detail
+all_reviews: alle beoordelingen
+monday: maandag
+tuesday: dinsdag
+wednesday: woensdag
+thursday: donderdag
+friday: vrijdag
+saturday: zaterdag
+sunday: zondag
+opening_hour: opening Hour
+closed: gesloten
+airport: luchthaven
+cafe: Café
+cinemas: bioscopen
+hotels_and_resorts: Hotels & Resorts
+libraries: bibliotheken
+night_clubs: nachtclubs
+offices: kantoren
+restaurants: restaurants
+shops: winkels
+review_submitted: beoordeling voorgelegd
+social_links: sociale banden
+upgrade_browser: upgrade browser
+please_upgrade_your_browser: Gelieve uw browser
+business: bedrijf
+introduction: introductie

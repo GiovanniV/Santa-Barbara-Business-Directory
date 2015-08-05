@@ -1,0 +1,84 @@
+.signup-alert{
+
+    margin: 2px 0 0 0;
+
+}
+
+#all-posts_filter input{
+
+	width: 200px;
+
+}
+
+#all-transaction_filter input{
+
+	width: 200px;
+
+}
+
+.email-tmpl-menu{
+
+	list-style: none;
+
+	padding: 0;
+
+	margin: 20px 0;
+
+	width: 100%;
+
+}
+
+.email-tmpl-menu li a{
+
+	width: 100%;
+
+	background:#F1F1F1;
+
+	float: left;
+
+	padding: 8px 10px;
+
+}
+
+.email-tmpl-menu .active a{
+
+	background:#E1E1E1;
+
+}
+
+.email-tmpl-menu a:hover{
+
+	background:#1A8FBF;
+
+	color: #fff;
+
+}
+
+#sortable1, #sortable2 {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    float: left;
+
+    margin-right: 10px;
+
+    background: #eee;
+
+    padding: 5px;
+
+    width:90%;
+
+    border: 1px dotted #000;
+
+}
+
+#position-instruction .modal-dialog{
+
+	width: 90%;
+
+}
+

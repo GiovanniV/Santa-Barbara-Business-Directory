@@ -1,0 +1,1 @@
+<span><img class="img-responsive" alt="Ad1" src="http://www.andersonlawoffice.org/stvesbanner.jpg"></span>

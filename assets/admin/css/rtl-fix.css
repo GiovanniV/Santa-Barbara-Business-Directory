@@ -1,0 +1,121 @@
+.control-label{
+
+	float: right !important;
+
+}
+
+.controls{
+
+	float: right !important;
+
+}
+
+.navbar-brand{
+
+	float: right;
+
+}
+
+.navbar{
+
+	padding-right: 0px;
+
+	padding-left: 15px;
+
+}
+
+.pull-left{
+
+	float: right !important;
+
+}
+
+.pull-right{
+
+	float:left !important;
+
+}
+
+.logged-in-user-info img {
+
+  border-radius: 50%;
+
+  float: right;
+
+  margin: 10px 20px 0 0;
+
+  width: 47px;
+
+}
+
+.logged-in-user-info span {
+
+  color: #bd110a;
+
+  float: right;
+
+  font-size: 14px;
+
+  margin: 26px 10px 0 0;
+
+}
+
+.admin-top-menu > li{
+
+	float: left;
+
+}
+
+.nav-list > li .submenu > li > a, .nav-list > li .submenu > li > span, .nav-list > li .submenu > li > ul > li > a {
+
+  display: block;
+
+  margin: 0;
+
+  padding: 7px 42px 8px 0;
+
+  position: relative;
+
+  transition: background-color 200ms linear 0s;
+
+}
+
+.nav-list > li .submenu > li:before, .nav-list > li .submenu > li > ul > li:before {
+
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+
+  content: "";
+
+  display: block;
+
+  position: absolute;
+
+  right: 25px;
+
+  top: 17px;
+
+  width: 4px;
+
+}
+
+.nav-list > li > a .arrow {
+
+  display: inline-block;
+
+  float: left;
+
+  font-size: 18px;
+
+  height: 14px;
+
+  line-height: 14px;
+
+  margin-top: 11px;
+
+  padding: 0;
+
+  text-shadow: none;
+
+  width: 14px !important;
+
+}

@@ -1,0 +1,609 @@
+---
+sign_in: Sign In
+sign_up: Sign Up
+agent_panel: Agent Panel
+admin_panel: Admin Panel
+DBC_ADVANCED_SEARCH: Advance Search
+DBC_HOME: Home
+DBC_ABOUT: About
+DBC_CONTACT: Contact
+country: Country
+state_province: State/Province
+city: City
+register: Register
+details: Details
+view_all: View All
+order_by: Order By
+none: None
+terms_and_conditions: Terms and Condition
+reg_success_message: Your account registration is successfull. An email was sent to your email. Please follow that email to activate your account.Thanks
+limit: Limit
+usage: Usage
+recover: Recover
+oops: Oops, page not found
+share_this: Share This
+location_map: Location Map
+image_gallery: Image Gallery
+gallery: Gallery
+summary: Summary
+overview: Overview
+address: Address
+message: Message
+email_subject: Email Subject
+all: All
+DBC_DELETED: Deleted
+contact_us: Contact Us
+DBC_ACTIVE: Active
+featured_video: Featured Video
+estates: Estates
+embed_video_url: Embeded Video Url
+DBC_PENDING: Pending
+email_tracker: Email Tracker
+bulk_email: Bulk Email
+advanced_filters: Advanced Filters
+result: Result
+payment_notification: You are going to make an payment. A email is sent to your email. You can back to this step anytime from the link on that email.
+confirmation: Confirmation
+tags: Tags
+zip_code: Zip Code
+embed_preview: Embed Preview
+login: Login
+post_not_found: Post not Found
+view_more: View More
+choose_a_package: Choose a Package
+choose_feature_package: Choose a feature package
+no_package_found: No Package found
+days: Days
+posts: Posts
+change: Change
+subscribe: Subscribe
+image: Image
+view_on_map: View on Map
+create: Create
+basic_info: Basic Info
+send: Send
+all_email_to_users: All Emails to Users
+email_detail: Email Detail
+change_package: Change Package
+bank_transfer: Bank Transfer
+contact_subject: Contact Email
+payment_finish_title: Payment Complete
+payment_renew_title: Payment Complete
+payment_finish_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be activated
+payment_renew_text: Your payment is complete. As soon as we recieved confirmation from paypal your account will be renewed
+payment_cancel_title: Payment Cancel
+payment_cancel_text: Your payment is canceled
+feature_payment_finish: Your payment is complete. As soon as we recieve confirmation from paypal, your estate will be featured.
+feature_payment_cancel: Your payment is canceled.
+private_owner: Private Owner
+selected_package: Selected Package
+signup_with_social_account: Signup with social account
+password: Password
+confirm_password: confirm_password
+all_posts: All posts
+no_posts: No Posts
+title: Title
+description: Description
+status: Status
+actions: Actions
+action: Action
+type: Type
+type_something: Type something
+content: Content
+featured_image: Featured Image
+category: Category
+all_categories: All categories
+edit_category: Edit category
+new_category: New category
+parent: Parent
+edit: Edit
+delete: Delete
+name: Name
+save: Save
+no_parent: No parent
+edit_email_template: Edit email template
+select_template_file: Select template file
+subject: Subject
+body: Body
+available_variables: Available variables
+select_language: Select Language
+select_language_file: Select language file
+edit_as_new: Edit as new
+language: Language
+add_another: Add Another
+export_to_file: Export to file
+import_from_file: Import from file
+auto_translator: Auto translator
+from_lang: From lang
+target_lang_full_name: Target lang full name
+target_lang_short_name: Target lang short name
+create_new_package: Create New Package
+price: Price
+maximum_post_by_user: Maximum posts by user
+expirtion_time: Expirtion time(days)
+create_package: Create Package
+edit_package: Edit package
+update_package: Update package
+add_packages: Add packages
+all_packages: All packages
+no_packages: No packages
+options: Options
+all_pages: All pages
+no_pages: No pages
+manage_menu: Manage menu
+menu_title: Menu Title
+menu_alias: Menu alias
+show_in_menu: Show in menu
+page_layout: Page layout
+content_from: Content from
+url: Url
+seo_options: SEO options
+meta_description: Meta description
+key_words: Key words
+crawl_after: Crawl after(days)
+all_plugins: All plugins
+no_plugins: No plugins
+name_and_version: Name and version
+change_password: Change password
+current_password: Current password
+new_password: New password
+retype_password: Retype password
+password_reset_info_msg: Please First Set your New Password
+profile_picture: Profile Picture
+username: Username
+email: Email
+first_name: First Name
+last_name: Last Name
+gender: Gender
+phone: Phone
+company_name: Company Name
+about_me: About Me
+facebook_account: Facebook account
+twitter_account: Twitter account
+linkedin_account: Linkedin account
+gp_account: Google+ account
+account_msg: Please enter the link, without http://
+web_email_settings: Web Email Settings
+contact_email: Contact Email
+webadmin_name: Webadmin Name
+webadmin_email: Webadmin Email
+update: Update
+upload: Upload
+site_settings: Site Settings
+site_title: Site Title
+footer_text: Footer Text
+site_logo: Site Logo
+site_language: Site Language
+site_text_direction: Site Text Direction
+per_page: Pagination Per Page
+default_page_layout: Default Page Layout
+tracking_code: Tracking Code
+smtp_email_settings: SMTP Email Settings
+smtp_email: SMTP Email
+smtp_host: SMTP Host
+smtp_port: SMTP Port
+smtp_timeout: SMTP Timeout
+smtp_user: SMTP User
+smtp_password: SMTP Password
+generate_site_map: Generate site map
+sitemap_info_msg: 
+  NB: Please select which you want to be included on sitemap xml. After successful generation sitemap.xml is saved under ROOT directory. You can also edit that file for including your own urls.
+pages: Pages
+blog_posts: Blog Posts
+articles: Articles
+blog_post: Blog Post
+blog: Blog post
+article: Article
+news: News
+view_xml: View XML
+create_xml: Create XML
+manage_backups: Manage Backups
+create_sql_backup: Create SQL Backup
+create_image_backup: Create Image Backup
+restore: Restore
+download: Download
+dashboard: Dashboard
+overview_stats_more: Overview, Stats and More
+visit_site: Visit Site
+logout: Logout
+themes: Themes
+locations: Locations
+paypal_settings: Paypal Settings
+payment_history: Payment History
+profile: Profile
+packages: Packages
+widgets: Widgets
+all_widgets: All Widgets
+widget_positions: Widget Positions
+blog_news_article: Blog/News/Article
+new_post: New Post
+pages_and_menu: Pages & Menu
+new_page: New Page
+menu: Menu
+system: System
+manage_languages: Manage Languages
+auto_translate: Auto Translate
+edit_email_text: Edit Email Text
+admin_settings: Web Admin Settings
+sitemap: Site Map
+activate: Activate
+active_theme: Active Theme
+available_themes: Available Themes
+all_users: All Users
+create_user: Create User
+export_user_email: Export User Emails(.csv)
+profile_info: Profile Info
+ban_forever: Ban Forever
+edit_page: Edit Page
+create_widget: Create Widget
+widget_name: Widget Name
+activate_deactivate: Activate/De-Activate
+show: Show
+available_widgets: Available Widgets
+active_widgets: Active Widgets
+delete_warning: Are you sure want do delete.
+yes: Yes
+no: No
+product_name: Business Directory
+fa_icon: FA icon class
+post_ad: List business
+post_ad_subtitle: Put your business detail
+signin: Signin
+signup: Signup
+signup_title: Create your account
+not_found: Not found
+purpose: Purpose
+purpose_buy: Buy
+purpose_sell: Sell
+select_category: Select Category
+contact_for_price: Contact for price
+address_info: Address Info
+general_info: General Info
+upload_later_msg: You'll be able to upload gallery photos and video url after post creation
+user_panel: Services Dashboard
+put_as_comma_seperated: put as (,) comma sperated
+added: Added
+location: Location
+views: Views
+package_type: Type
+post_package: Post package
+featured_package: Featured package
+both_package: Post and featured
+select_package: Select package
+package_created: Package created
+package_updated: Package updated
+slider: Slider
+add_new: Add new
+new_slide: New slide
+update_slide: Update slide
+save_order: Save order
+slider_sort_instruction: You can drag drop to sort the table rows. After sorting save the order
+search: Search
+results: Results
+property_location_on_map: Property Location on Map
+location_on_map: Location on Map
+contact_mode: Contact Mode
+reset: Reset
+contact: Contact
+default_site_view: Default site view
+type_your_message: Type your message here..
+mail_sent: Mail Sent
+search_classifieds: Search BusinessDirectorys
+advanced_search: Advance Search
+narrow_down_your_businesses: Narrow down your businesses
+home: Home
+print: Print
+remember_me: Remember Me
+forgot_password: Forgot Password
+login_failed: Login failed
+login_to_your_account: Login to your Account
+register_your_account: Register your Account
+male: Male
+female: Female
+no_location_found: No Location Found
+state: State
+ad_creation_error: Error in ad creation! Please check.
+users: Users
+show_admin_user: Show Admin User
+send_email_to_business: Send Email to business
+DBC_PAYMENT_PENDING: Payment pending
+DBC_EXPIRED: Expired
+categories: Categories
+top_posts: Top Posts
+show_state_province: Show State Province
+package_settings: Package Settings
+default_site_settings: Default Site Settings
+webadmin_settings: Webadmin Settings
+banner_settings: Banner Settings
+max_price_for_search: Max Price for Search
+search_filters: Search Filters
+posts_per_page: Posts Per Page
+recent_posts: Recent posts
+featured_posts: Featured Posts
+top_locations: Top Locations
+top_users: Top Users
+approve: Approve
+make_featured: Make featured
+remove_featured: Remove featured
+renew_featured: Renew featured
+renew_package: Renew package
+no_renew_post_id: Invalid renew post id
+approve_payment: Approve payment
+transaction: Transaction
+transaction_id: Transaction id
+post_id: Post id
+amount: Amount
+request_date: Request date
+expiration_date: Expiration date
+transaction_deleted: Transaction deleted
+payment_approved: Payment approved
+logged_in_as: Logged in as
+posted_on: Posted on
+confirm_email_send: Confirmation email send.Please follow the instructions from that email.
+email_confirmed: Email confirmed.You can now login with your email and password
+email_confirmed_failed: Confirmation failed.Confirmation email and code doesn't match.
+password_change_success: Password changed successfully
+email_sent_inbox: A email is send to your inbox.Check that email.
+password_recovery_link_invalid: Password Recovery Link Is Not Valid
+user_updated: User Updated
+user_deleted: User Deleted
+user_banned: User Banned
+user_unbanned: User Unbanned
+user_confirmed: User Confirmed
+post_deleted: Post Deleted
+post_updated: Post Updated
+post_created: Post Created
+post_featured: Post featured
+data_inserted: Data inserted
+data_updated: Data Updated
+feature_renewed: Feature Renewed
+post_feature_removed: Post Feature Removed
+post_approved: Post Approved
+invalid_post: Invalid Post
+email_sent: Email Sent
+settings_updated: Settings Updated
+package_removed: Package Removed
+page_updated: Page Updated
+page_created: Page Created
+page_deleted: Page Deleted
+menu_updated: Menu Updated
+site_map_generation_success: Site map generated successfully.
+select_option: Please select on or more select options.
+image_backup_created: Image Backup Created
+language_translated: Language Translated
+unavle_to_write_file: Unable To Write File
+backup_deleted: Backup Deleted
+database_restored: Database Restored
+theme_activated: Theme Activated
+user_created: User Created
+widget_position_updated: Widget Postion Updated
+widget_created: Widget Created
+widget_data_updated: Widget Data Updated
+unable_to_write_widget: Unable to write widget
+post_created_and_published: Post created and published
+post_created_approval: Post created and waiting for admin approval
+post_package_renewed: Post package renewed
+payment_finish: Payment finish
+payment_cancelled: Payment canceled
+admin_change_pass_help: Leave blank if no change needed
+go_to_paypal: Go to Paypal
+login_with_google: Login with Google
+login_with_facebook: Login with Facebook
+load_more_recent_posts: Load More Recent Posts
+load_more_featured_posts: Load More Featured Posts
+register_for_new_account: Register for New Account
+site_map: Site Map
+show_site_map: Show site map
+service: Service
+features: Features
+about: About
+view_posts: View posts
+see_full_documentation: See full documentation
+select_city: Select city
+parallax_slider: Parallax Slider
+all_slides: All slides
+no_slide: No slide
+slide_order: Slide order
+edit_profile: Edit profile
+post_price_settings: Post price settings
+enable_post_pricing: Enable post pricing
+enable_paypal_transfer: Enable paypal
+enable_bank_transfer: Enable bank transfer
+bank_transfer_instruction_for_posts: Bank Transfer Instruction
+featured_price_settings: Featured price settings
+enable_featured_pricing: Enable featured pricing
+enable_featured_paypal: Enable paypal
+enable_featured_bank_transfer: Enable bank transfer
+bank_transfer_instruction_for_featured_posts: Bank transfer instruction
+bank_currency_settings: Bank currency settings
+bank_currency: Bank currency
+use_same_as_paypal_currency: Use same as paypal currency
+admin: Admin
+re_password: Retype password
+explain_widget_position: Explain widget positions
+post: Post
+post_renew: Post Renew
+feature: Feature
+feature_renew: Feature Renew
+payment_for: Payment for
+select_country: Select Country
+select_one: Select One
+video_url: Vidoe URL
+confirm_payment: Confirm Payment
+package_title: Package Title
+number_of_featured_days: Number of days to be featured
+no_of_days: No of days
+expiration_time: Expiration Time
+any_city: Any City
+any_category: Any Category
+product_admin_panel: Santa Barbara
+username_or_email: Username or Email
+business_detail: Business detail
+post_detail_subtitle: 
+posts_by: Posts By
+featured: Featured
+edit_user: Edit user
+the_field_is_required: The %s field is required.
+valid_email: The %s field must contain a valid email address.
+min_length: The %s field must be at least %s characters in length.
+numeric: The %s field must contain only numbers.
+matches: The %s field does not match the %s field.
+greater_than: The %s field must contain a number greater than %s.
+agree_terms: I've read the %s terms and conditions %s
+must_accept_terms: You must accept terms and condition
+dont_have_permission: You don't have permission to access this page
+email_allready_in_use: Email already in use
+username_allready_in_use: Username allready in use
+current_password_not_matched: Current password didn\'t match
+email_or_password_not_mathed: Email or password doen\'t match
+email_not_matched: Email not matched
+account_not_confirmed: Account not confirmed
+all_locations: All locations
+add_country: Add country
+add_state: Add state
+add_city: Add city
+no_locations: No locations
+banner_type: Banner type
+bg_image: Background image
+unique_alias: The %s field needs to be unique
+error_occured: Error occured. Please check the fields below
+user_profile: User profile'
+user_email: User email
+target_lang_name: Target language
+no_emails: No emails
+to: To
+classified_settings: Classified Settings
+publish_posts_directly: Publish posts directly
+system_currency: System currency
+enable_signup: Enable signup
+if_package_expired: If package expired
+do_not_hide: Do not hide
+hide: Hide
+show_price_like: Price format
+facebook_app_settings: Facebook app settings
+enable_facebook_login: Enable facebook login
+fb_app_id: Facebook app id
+fb_secret_key: Facebook secret key
+comment_settings: Comment settings
+enable_comment: Enable comment
+disqus_shortname: Disqus Shortname
+sandbox_mode: Sandbox Mode
+item_name: Item name
+paypal_email: Paypal email
+currency: Currency
+finish_url: Finish url
+cancel_url: Cancel url
+menu_background: Menu background
+menu_text_color: Menu text color
+activated_menu_color: Activated menu color
+top_bar_bg: Top bar bg
+activated_menu_text_color: Activated menu text color
+latitude: Latitude
+longitude: Longitude
+map_zoom: Map zoom
+search_panel_settings: Search panel settings
+search_panel_bg_color: Search panel bg color
+show_background_image: Show background image
+active_widget_position: Active widget position
+upload_and_install: Upload and install
+install_updates: Install Updates/Themes/Plugins/Widgets
+confirmation_email: Confirmation Email
+recovery_email: Recovery Email
+signup_notification_email: Register Notification Email
+payment_confirmation_email: Payment Confirmation Email
+click_and_edit: Select a template file and click edit
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Default SEO settings
+individual: Individual
+find_us_on_facebook: Find us on Facebook
+category_featured_posts: Featured posts
+load_more_posts: Load More
+home_page_title: Search and post category top ads
+no_posts_found: No posts
+type_anything: Type anything
+chosen_not_found: Oops, nothing found!
+rating_asc: Rating Ascending
+rating_desc: Rating Descending
+id_desc: Id Descending
+id_asc: Id Ascending
+show_daily_menu: Show Daily Menu
+website: Website
+founded: Founded
+year: Year
+price_range: Price Range
+additional_features: Additional Features
+add_more_fields: Add more fields
+remove: Remove
+distance_around_my_position: Distance around my position
+show_distance_in: Show Distance in
+business_listed: Business Listed
+show_street_view: Show Street View
+list_business: Listings
+search_listings: Search Listings
+top_businesses: Top Businesses
+featured_businesses: Featured Businesses
+business_directory_settings: Business Directory Settings
+hide_email: Hide email
+hide_phone: Hide phone
+review: Review
+comment: Comment
+submit_review: Submit Review
+rating: Rating
+review_alert: You must be logged in to submit review.
+new_business: New Business
+identify_my_location: Identify my location
+data_deleted: Data deleted
+recent_reviews: Recent reviews
+view_all_reviews: View all reviews
+review_deleted: Review Deleted
+review_detail: Detail
+all_reviews: All Reviews
+monday: Monday
+tuesday: Tuesday
+wednesday: Wednesday
+thursday: Thursday
+friday: Friday
+saturday: Saturday
+sunday: Sunday
+opening_hour: Opening Hour
+closed: Closed
+airport: Airport
+cafe: Cafe
+cinemas: Cinemas
+hotels_and_resorts: Hotels & Resorts
+libraries: Libraries
+night_clubs: Night Clubs
+offices: Offices
+restaurants: Restaurants
+shops: Shops
+review_submitted: Review submitted
+social_links: Social links
+upgrade_browser: Upgrade browser
+please_upgrade_your_browser: Please upgrade your browser
+business: Business
+introduction: Introduction
+terms: Terms and condition
+email_not_found: Email not found
+city_dropdown: City dropdown
+published: Published
+publish: Publish
+drafted: Drafted
+draft: Draft
+from: From
+send_bulk_email: Send Bulk Email
+ive_read_the: I've read the
+title_city_category: Title, city or category
+dt_first: First
+dt_last: Last
+dt_next: Next
+dt_prev: Previous
+dt_no_data: No data available in table
+dt_show_empty: Showing 0 to 0 of 0 entries
+dt_no_match: No matching records found
+dt_search: Search
+dt_processing: Processing...
+dt_loading: Loading...
+dt_info: Showing _START_ to _END_ of _TOTAL_ entries
+dt_filter_info: (filtered from _MAX_ total entries)
+dt_show_entries: Show _MENU_ entries
+my_account: My Account
